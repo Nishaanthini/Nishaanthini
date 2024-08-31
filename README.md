@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate web developer and tech enthusiast
 ## 🚀 About Me
 
 - 💡 Currently, I'm diving deep into full-stack development.
-- 📫 Feel free to connect with me here on GitHub or through my [LinkedIn](https://www.linkedin.com/in/nishaanthini-m-895201280/), or via email at [Email](mailto:nishaanthini14@gmail.com). Let's collaborate, learn, and build something amazing together!
+- 📫 Feel free to connect with me here on GitHub or through my [LinkedIn](https://www.linkedin.com/in/nishaanthini-m-895201280/), or via email at [nishaanthini14@gmail.com](mailto:nishaanthini14@gmail.com). Let's collaborate, learn, and build something amazing together!
 
 
 ## 🛠 Skills
@@ -29,7 +29,6 @@ Welcome to my GitHub profile! I'm a passionate web developer and tech enthusiast
 
 ## 📫 How to Reach Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nishaanthini)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishaanthini-m-895201280/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Nishaanthini_14/)
 

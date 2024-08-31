@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about web development.
 
 - 🌱 I’m currently enhancing my skills in advanced React and exploring backend technologies.
 - 💻 I enjoy turning complex problems into simple, beautiful, and intuitive designs.
-- 📫 How to reach me: [nishaanthini@example.com](mailto:nishaanthini@example.com)
+- 📫 How to reach me: [nishaanthini14@gmail.com](mailto:nishaanthini14@gmail.com)
 - 🎯 My goal is to contribute to open-source projects and collaborate with other developers.
 
 

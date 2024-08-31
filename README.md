@@ -1,12 +1,11 @@
 # Hi there, I'm Nishaanthini 👋
 
-Welcome to my GitHub profile! I'm passionate about web development.
+Welcome to my GitHub profile! I'm a passionate web developer and tech enthusiast. I enjoy working on challenging projects and learning new technologies. I'm always eager to improve my skills and collaborate with others in the tech community.
 ## 🚀 About Me
 
-- 🌱 I’m currently enhancing my skills in advanced React and exploring backend technologies.
-- 💻 I enjoy turning complex problems into simple, beautiful, and intuitive designs.
-- 📫 How to reach me: [nishaanthini14@gmail.com](mailto:nishaanthini14@gmail.com)
+- 💡 Currently, I'm diving deep into full-stack development
 - 🎯 My goal is to contribute to open-source projects and collaborate with other developers.
+- 📫 Feel free to connect with me here on GitHub or through my [LinkedIn](https://www.linkedin.com/in/nishaanthini-m-895201280/). Let's collaborate, learn, and build something amazing together!
 
 
 ## 🛠 Skills
@@ -16,6 +15,10 @@ Welcome to my GitHub profile! I'm passionate about web development.
 
 ### Tools
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
+
+## Top Languages Card
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishaanthini&layout=compact&theme=radical)
+
 
 ## 📈 GitHub Stats
 

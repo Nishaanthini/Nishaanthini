@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Nishaanthini 👋
 
 Welcome to my GitHub profile! I'm passionate about web development.

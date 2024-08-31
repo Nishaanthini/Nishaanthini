@@ -1,10 +1,9 @@
 # Hi there, I'm Nishaanthini 👋
 
-Welcome to my GitHub profile! I'm a passionate web developer and tech enthusiast. I enjoy working on challenging projects and learning new technologies. I'm always eager to improve my skills and collaborate with others in the tech community.
+Welcome to my GitHub profile! I'm a passionate web developer and tech enthusiast. I enjoy working on challenging projects and learning new technologies.
 ## 🚀 About Me
 
 - 💡 Currently, I'm diving deep into full-stack development.
-- 🎯 My goal is to contribute to open-source projects and collaborate with other developers.
 - 📫 Feel free to connect with me here on GitHub or through my [LinkedIn](https://www.linkedin.com/in/nishaanthini-m-895201280/), or via email at [Email](mailto:nishaanthini14@gmail.com). Let's collaborate, learn, and build something amazing together!
 
 

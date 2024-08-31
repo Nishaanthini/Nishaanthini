@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate web developer and tech enthusiast
 
 - 💡 Currently, I'm diving deep into full-stack development.
 - 🎯 My goal is to contribute to open-source projects and collaborate with other developers.
-- 📫 Feel free to connect with me here on GitHub or through my [LinkedIn](https://www.linkedin.com/in/nishaanthini-m-895201280/), or via email at [nishaanthini14@gmail.com](mailto:nishaanthini14@gmail.com). Let's collaborate, learn, and build something amazing together!
+- 📫 Feel free to connect with me here on GitHub or through my [LinkedIn](https://www.linkedin.com/in/nishaanthini-m-895201280/), or via email at [Email](mailto:nishaanthini14@gmail.com). Let's collaborate, learn, and build something amazing together!
 
 
 ## 🛠 Skills
@@ -23,6 +23,10 @@ Welcome to my GitHub profile! I'm a passionate web developer and tech enthusiast
 ## 📈 GitHub Stats
 
 ![Nishaanthini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishaanthini&show_icons=true&theme=radical)
+
+## Resume
+
+📄 **[View My Resume](https://drive.google.com/file/d/1EmLvSWeyg3afo2eAXD-U6dANCoYwvtUy/view?usp=drive_link)**
 
 ## 📫 How to Reach Me
 
